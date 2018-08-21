@@ -1,4 +1,4 @@
-# Supreme-Autofill-Checkout-Chrome-Bookmark
+# Supreme Autofill + Checkout Chrome Bookmark
 
 Simply copy the code and save it as a bookmark on your chrome browser. Bookmark only works on deskptop. Also, supreme is known to change their html time to time so update may require.
 
