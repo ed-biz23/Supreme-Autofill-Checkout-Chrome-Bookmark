@@ -17,7 +17,7 @@ function checkOut(){
 }
 if(location != 'https://www.supremenewyork.com/checkout') {
   location = 'https://www.supremenewyork.com/checkout';
-} else {
+}else {
   if(document.readyState === 'complete') {
     checkOut();
   }
